@@ -1,0 +1,131 @@
+/*---zahir css-------*/
+
+.logo-img {
+	height: auto;
+}
+
+.export {
+	margin-left: 5px;
+}
+
+.deta-table .table > tbody > tr > td > .icon span:hover {
+	background-color: #2a75f3;
+	color: #fff;
+}
+.addreport{
+	margin-right: 10px;
+}
+.addreport .btn.btn-lg .icon {
+	padding-right: 5px;
+}
+
+.savebtn {
+	padding-right: 5px;
+}
+.table#table3{
+	border-top: 1px solid #e4e4e4; 
+}
+
+/* Css add by Nikhil */
+label.error{color: #cc5965;display: inline-block;margin-left: 5px;}
+#dataTable_paginate{margin: 15px 15px 0 0;}
+#dataTable_info{margin: 15px 0 0 15px;}
+
+/*---------------------*user_management*------------------------*/
+
+.account-but a i {
+	color: #696767;
+}
+
+.user-table {
+	width: 100%;
+	float: left;
+}
+
+#table3 input {
+	width: 53%;
+}
+
+.deta-table .table > tbody > tr > td > .icon span:hover {
+	background-color: #2a75f3;
+	color: #fff;
+}
+
+
+/*--------------*Daily_report*----------------*/
+
+.activity-space {
+	margin: 15px 0 15px 7px;
+}
+
+.activity-but {
+	width: 100%;
+	text-align: center;
+}
+
+.activity-add {
+	float: left;
+}
+
+.activity-add .btn {
+	background: none;
+	border: none;
+	box-shadow: inherit;
+}
+
+.activity-add a i {
+	color: #4C8BF5;
+	font-size: 38px;
+}
+
+.search-but {
+	padding: 0 10px 0 0;
+}
+
+.deta-table {
+	width: 100%;
+}
+
+.deta-table .table > thead > tr > th {
+	border: none;
+	padding: 5px;
+}
+
+.deta-table .table > thead > tr > th select {
+	width: auto;
+}
+
+.deta-table .row .be-datatable-header .col-sm-6:first-child {
+	float: right;
+	text-align: right;
+}
+
+.deta-table .row .be-datatable-header .col-sm-6:last-child {
+	float: left;
+}
+
+.deta-table .dataTables_paginate {
+	float: right;
+}
+
+.deta-table .table > tbody > tr > td >.icon span {
+	background-color: #e4e4e4;
+	border-radius: 0;
+	display: inline-block;
+	margin-right: 4px;
+	font-size: 20px;
+	padding: 8px;
+	text-align: center;
+	transition: background-color 300ms ease-in-out 0s;
+	vertical-align: middle;
+	width: 50px;
+}
+
+.deta-table .table > tbody > tr > td >.icon > a {
+	color: #696767;
+	float: left;
+}
+
+.panel {
+	width: 100%;
+}
